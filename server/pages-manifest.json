@@ -1,0 +1,17 @@
+{
+  "/_app": "pages/_app.js",
+  "/builder/[id]": "pages/builder/[id].html",
+  "/404": "pages/404.html",
+  "/builder": "pages/builder.html",
+  "/collectibles": "pages/collectibles.html",
+  "/forgot-password": "pages/forgot-password.html",
+  "/golive": "pages/golive.html",
+  "/home": "pages/home.html",
+  "/": "pages/index.html",
+  "/onboarding": "pages/onboarding.html",
+  "/settings": "pages/settings.html",
+  "/sign-in": "pages/sign-in.html",
+  "/sign-up": "pages/sign-up.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
